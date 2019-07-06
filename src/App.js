@@ -22,5 +22,5 @@ function App() {
     </div>
   );
 }
-// Comment
+// Comment 2
 export default App;
